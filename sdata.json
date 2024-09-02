@@ -1,0 +1,374 @@
+[
+  {
+    "12-08-2024":
+    [
+      {
+        "ticker": "BEKE",
+        "aftermarketRise": false,
+        "premarketRise": true,
+        "premarketLastEMA20": 14.92,
+        "premarketLastHigh": 16.05,
+        "premarketLastLow": 15.25,
+        "openHigh": 15.83,
+        "openLow": 14.95,
+        "dayHigh": 15.83,
+        "dayHighTime": "16:30:00",
+        "dayLow": 14.50,
+        "dayLowTime": "17:35:00",
+        "sections":
+        [
+          {
+            "sectionLow": 14.50,
+            "sectionLowTime": "17:35:00",
+            "sectionHigh": 15.00,
+            "sectionHighTime": "18:55:00"
+          }   
+        ]
+      },
+      {
+        "ticker": "PSIG",
+        "aftermarketRise": true,
+        "premarketRise": true,
+        "premarketLastEMA20": 1.57,
+        "premarketLastHigh": 1.50,
+        "premarketLastLow": 1.40,
+        "openHigh": 1.55,
+        "openLow": 1.35,
+        "dayHigh": 2.82,
+        "dayHighTime": "17:10:00",
+        "dayLow": 1.35,
+        "dayLowTime": "16:30:00",
+        "sections":
+        [
+          {
+            "sectionLow": 1.35,
+            "sectionLowTime": "16:30:00",
+            "sectionHigh": 2.82,
+            "sectionHighTime": "17:10:00"
+          },
+          {
+            "sectionLow": 1.82,
+            "sectionLowTime": "19:00:00",
+            "sectionHigh": 2.60,
+            "sectionHighTime": "22:20:00"
+          }
+        ]
+      },
+      {
+        "ticker": "NFE",
+        "aftermarketRise": false,
+        "premarketRise": false,
+        "premarketLastEMA20": 13.16,
+        "premarketLastHigh": 13.37,
+        "premarketLastLow": 13.18,
+        "openHigh": 14.07,
+        "openLow": 13.10,
+        "dayHigh": 15.05,
+        "dayHighTime": "17:50:00",
+        "dayLow": 13.10,
+        "dayLowTime": "16:30:00",
+        "sections":
+        [
+          {
+            "sectionLow": 13.10,
+            "sectionLowTime": "16:30:00",
+            "sectionHigh": 15.05,
+            "sectionHighTime": "17:50:00"
+          },
+          {
+            "sectionLow": 13.96,
+            "sectionLowTime": "21:35:00",
+            "sectionHigh": 14.50,
+            "sectionHighTime": "22:25:00"
+          }
+        ]
+      },
+      {
+        "ticker": "SXTP",
+        "aftermarketRise": false,
+        "premarketRise": true,
+        "premarketLastEMA20": 1.26,
+        "premarketLastHigh": 1.55,
+        "premarketLastLow": 1.37,
+        "openHigh": 1.42,
+        "openLow": 1.18,
+        "dayHigh": 2.20,
+        "dayHighTime": "17:50:00",
+        "dayLow": 1.18,
+        "dayLowTime": "16:30:00",
+        "sections":
+        [
+          {
+            "sectionLow": 1.18,
+            "sectionLowTime": "16:30:00",
+            "sectionHigh": 2.20,
+            "sectionHighTime": "17:00:00"
+          },
+          {
+            "sectionLow": 1.36,
+            "sectionLowTime": "19:25:00",
+            "sectionHigh": 1.67,
+            "sectionHighTime": "22:20:00"
+          }
+        ]
+      },
+      {
+        "ticker": "BTG",
+        "aftermarketRise": false,
+        "premarketRise": true,
+        "premarketLastEMA20": 2.53,
+        "premarketLastHigh": 2.53,
+        "premarketLastLow": 2.52,
+        "openHigh": 2.55,
+        "openLow": 2.51,
+        "dayHigh": 2.61,
+        "dayHighTime": "21:50:00",
+        "dayLow": 2.50,
+        "dayLowTime": "16:35:00",
+        "sections":
+        [
+          {
+            "sectionLow": 2.50,
+            "sectionLowTime": "16:35:00",
+            "sectionHigh": 2.58,
+            "sectionHighTime": "17:00:00"
+          },
+          {
+            "sectionLow": 2.50,
+            "sectionLowTime": "17:20:00",
+            "sectionHigh": 2.60,
+            "sectionHighTime": "19:10:00"
+          },
+          {
+            "sectionLow": 2.54,
+            "sectionLowTime": "19:55:00",
+            "sectionHigh": 2.61,
+            "sectionHighTime": "21:50:00"
+          }
+        ]
+      },
+      {
+        "ticker": "WMT",
+        "aftermarketRise": true,
+        "premarketRise": true,
+        "premarketLastEMA20": 68.47,
+        "premarketLastHigh": 68.49,
+        "premarketLastLow": 68.40,
+        "openHigh": 68.45,
+        "openLow": 68.12,
+        "dayHigh": 69.23,
+        "dayHighTime": "19:10:00",
+        "dayLow": 68.07,
+        "dayLowTime": "16:35:00",
+        "sections":
+        [
+          {
+            "sectionLow": 68.07,
+            "sectionLowTime": "16:35:00",
+            "sectionHigh": 69.12,
+            "sectionHighTime": "17:45:00"
+          },
+          {
+            "sectionLow": 68.70,
+            "sectionLowTime": "18:25:00",
+            "sectionHigh": 69.23,
+            "sectionHighTime": "19:10:00"
+          }
+        ]
+      }
+    ],
+    "13-08-2024":
+    [  
+      {
+        "ticker": "CXAI",
+        "aftermarketRise": true,
+        "premarketRise": false,
+        "premarketLastEMA20": 2.47,
+        "premarketLastHigh": 2.49,
+        "premarketLastLow": 2.41,
+        "openHigh": 2.88,
+        "openLow": 2.40,
+        "dayHigh": 3.76,
+        "dayHighTime": "19:10:00",
+        "dayLow": 2.40,
+        "dayLowTime": "16:35:00",
+        "sections":
+        [
+          {
+            "sectionLow": 2.40,
+            "sectionLowTime": "16:30:00",
+            "sectionHigh": 2.79,
+            "sectionHighTime": "16:45:00"
+          },
+          {
+            "sectionLow": 2.53,
+            "sectionLowTime": "17:15:00",
+            "sectionHigh": 3.76,
+            "sectionHighTime": "19:55:00"
+          }
+        ]
+      },
+      {
+        "ticker": "SPRY",
+        "aftermarketRise": false,
+        "premarketRise": true,
+        "premarketLastEMA20": 11.82,
+        "premarketLastHigh": 12.00,
+        "premarketLastLow": 11.77,
+        "openHigh": 12.24,
+        "openLow": 11.74,
+        "dayHigh": 13.10,
+        "dayHighTime": "22:55:00",
+        "dayLow": 11.28,
+        "dayLowTime": "16:45:00",
+        "sections":
+        [
+          {
+            "sectionLow": 11.28,
+            "sectionLowTime": "16:45:00",
+            "sectionHigh": 12.99,
+            "sectionHighTime": "19:55:00"
+          },
+          {
+            "sectionLow": 12.54,
+            "sectionLowTime": "20:55:00",
+            "sectionHigh": 12.98,
+            "sectionHighTime": "21:35:00"
+          },
+          {
+            "sectionLow": 12.52,
+            "sectionLowTime": "22:00:00",
+            "sectionHigh": 13.10,
+            "sectionHighTime": "22:55:00"
+          }
+        ]
+      }
+    ],
+    "14-08-2024":
+    [
+      {
+        "ticker": "SERV",
+        "aftermarketRise": true,
+        "premarketRise": true,
+        "premarketLastEMA20": 13.40,
+        "premarketLastHigh": 14.09,
+        "premarketLastLow": 13.77,
+        "openHigh": 14.44,
+        "openLow": 12.82,
+        "dayHigh": 14.44,
+        "dayHighTime": "16:30:00",
+        "dayLow": 10.90,
+        "dayLowTime": "21:10:00",
+        "sections":
+        [
+          {
+            "sectionLow": 12.46,
+            "sectionLowTime": "16:55:00",
+            "sectionHigh": 13.87,
+            "sectionHighTime": "18:10:00"
+          },
+          {
+            "sectionLow": 10.90,
+            "sectionLowTime": "21:10:00",
+            "sectionHigh": 11.69,
+            "sectionHighTime": "21:30:00"
+          }
+        ]
+      },
+      {
+        "ticker": "BTG",
+        "aftermarketRise": false,
+        "premarketRise": true,
+        "premarketLastEMA20": 2.63,
+        "premarketLastHigh": 2.62,
+        "premarketLastLow": 2.62,
+        "openHigh": 2.63,
+        "openLow": 2.59,
+        "dayHigh": 2.65,
+        "dayHighTime": "21:55:00",
+        "dayLow": 2.57,
+        "dayLowTime": "17:35:00",
+        "sections":
+        [
+          {
+            "sectionLow": 2.57,
+            "sectionLowTime": "17:35:00",
+            "sectionHigh": 2.62,
+            "sectionHighTime": "19:10:00"
+          },
+          {
+            "sectionLow": 2.60,
+            "sectionLowTime": "19:25:00",
+            "sectionHigh": 2.65,
+            "sectionHighTime": "21:55:00"
+          }
+        ]
+      },
+      {
+        "ticker": "LQDA",
+        "aftermarketRise": false,
+        "premarketRise": true,
+        "premarketLastEMA20": 13.87,
+        "premarketLastHigh": 13.75,
+        "premarketLastLow": 13.65,
+        "openHigh": 13.89,
+        "openLow": 13.48,
+        "dayHigh": 14.00,
+        "dayHighTime": "22:40:00",
+        "dayLow": 13.31,
+        "dayLowTime": "20:40:00",
+        "sections":
+        [
+          {
+            "sectionLow": 13.48,
+            "sectionLowTime": "20:40:00",
+            "sectionHigh": 14.00,
+            "sectionHighTime": "22:40:00"
+          }
+        ]
+      },
+      {
+        "ticker": "TEVA",
+        "aftermarketRise": false,
+        "premarketRise": false,
+        "premarketLastEMA20": 17.16,
+        "premarketLastHigh": 17.13,
+        "premarketLastLow": 17.13,
+        "openHigh": 17.23,
+        "openLow": 17.15,
+        "dayHigh": 18.05,
+        "dayHighTime": "18:30:00",
+        "dayLow": 17.15,
+        "dayLowTime": "16:30:00",
+        "sections":
+        [
+          {
+            "sectionLow": 17.15,
+            "sectionLowTime": "16:30:00",
+            "sectionHigh": 17.92,
+            "sectionHighTime": "16:40:00"
+          },
+          {
+            "sectionLow": 17.56,
+            "sectionLowTime": "17:10:00",
+            "sectionHigh": 18.05,
+            "sectionHighTime": "18:30:00"
+          },
+          {
+            "sectionLow": 17.73,
+            "sectionLowTime": "19:25:00",
+            "sectionHigh": 18.01,
+            "sectionHighTime": "20:05:00"
+          },
+          {
+            "sectionLow": 17.77,
+            "sectionLowTime": "20:45:00",
+            "sectionHigh": 18.02,
+            "sectionHighTime": "22:55:00"
+          }
+        ]
+      }
+      
+    ]
+  }
+]
